@@ -13,6 +13,6 @@ Do not miss this fabulous chance to experience Baroque Music in Greymouth
 
 Details in poster
 
-![alt text](https://greblog.github.io/assets/img/baroque.jpg "Millennial Demo Image")
+<img class="img-fluid" src="https://greyblog.github.io/assets/img/b-baroque.jpg" alt="Baroque Image">
 
 
