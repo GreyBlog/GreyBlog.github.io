@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Welcome to Grey Blog!"
+author: "Grey Blog"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
