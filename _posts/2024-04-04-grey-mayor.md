@@ -7,4 +7,4 @@ tags: [sample]
 image: bg-about.jpg
 ---
 
-Is our Mayor up to scratch
+Is our Mayor up to scratch this is an important question
