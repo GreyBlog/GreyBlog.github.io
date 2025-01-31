@@ -16,6 +16,7 @@ Details in poster
 <img class="img-fluid" src="https://greyblog.github.io/assets/img/b-baroque.jpg" alt="Baroque Image">
 
 ```
+js client
 <script>
 var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
 var idcomments_post_id;
