@@ -15,7 +15,7 @@ We are dedicated to giving the people of the Grey District an open forum where t
 Although this is a free-speech forum we ask that you be polite when possible and do not engage in hate speech or anything that could be construed as illegal. We will not be moderating comments but if we are made aware of a comment that breaks these rules we will remove it as soon as we possibly can.
 
 If anyone wishes to contact us use the contact link at the top of the page.
-
+```js client
 <script>
 var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
 var idcomments_post_id;
@@ -30,3 +30,4 @@ var idcomments_post_id;
 var idcomments_post_url;
 </script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+```
