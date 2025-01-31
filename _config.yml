@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Grey Blog"
-description:	       "A blog to discuss events and politic in the Grey District of New Zealand / Aotearoa"
+description:	       "A blog to discuss events and politics in the Grey District of New Zealand / Aotearoa"
 author:              "Grey Blog"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
