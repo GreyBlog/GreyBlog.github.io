@@ -16,8 +16,7 @@ Although this is a free-speech forum we ask that you be polite when possible and
 
 If anyone wishes to contact us use the contact link at the top of the page.
 
-```
-js client
+```js client
 <script>
 var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
 var idcomments_post_id;
