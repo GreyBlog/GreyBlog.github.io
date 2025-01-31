@@ -155,19 +155,4 @@ More information on Markdown can be found at the following links:
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
-```js client
-<script>
-var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-var idcomments_post_id;
-var idcomments_post_url;
-</script>
-<span id="IDCommentsPostTitle" style="display:none"></span>
-<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
-<script>
-var idcomments_acct = 'acde56cb65621d24ca6ced562bac6083';
-var idcomments_post_id;
-var idcomments_post_url;
-</script>
-<script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
-```
