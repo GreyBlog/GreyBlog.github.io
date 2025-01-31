@@ -13,6 +13,6 @@ Do not miss this fabulous chance to experience Baroque Music in Greymouth
 
 Details in poster
 
-![image info](./assets/img/baroque.jpg)
+![image info](./greyblog.github.io/assets/img/baroque.jpg)
 
 
